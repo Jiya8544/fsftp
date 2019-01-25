@@ -2,9 +2,9 @@
 
 <hr>
 
-<i>FsFTP Server (<b>F</b>ast and <b>S</b>ecure <b>FTP</b> Server) is a Highly configurable Free FTP, FTPS & HTTPS server software compatible with Windows and Linux</i><br><br>
+<i>FsFTP Server (<b>F</b>ast and <b>S</b>ecure <b>FTP</b> Server) is a Highly configurable Free FTP, FTPS & HTTPS server software compatible with Windows and Linux</i><br>
 
-<b>Demo at <a href="https://localhost:3000/" target="_blank">https://localhost:3000/</a></b>
+<b>Demo at <a href="https://ftp.worddev.fr:3000/" target="_blank">https://ftp.worddev.fr:3000/</a></b>
 
 <hr>
 
