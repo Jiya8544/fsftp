@@ -153,8 +153,7 @@ Pour faire un don, <a href="https://worddev.fr/?f=don&amp;lg=fr" target="_blank"
 <br>
 Merci :) 
 
-
-<br> <hr><br>
+<hr><br>
 <img src="img/img1-fr.png">
 <br> <hr><br>
 <img src="img/img2-fr.png">

@@ -154,8 +154,7 @@ To make a donation, <a href="https://worddev.fr/?f=don&amp;lg=en" target="_blank
 <br>
 Thank you :) 
 
-
-<br><hr><br>
+<hr><br>
 <img src="img/img1.png">
 <br><hr><br>
 <img src="img/img2.png">
