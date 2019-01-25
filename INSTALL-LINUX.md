@@ -41,7 +41,7 @@ sudo chmod +x install && ./install
 Pour administrer votre serveur, allez à l'adresse https://ADRESSE-DE-VOTRE-SERVER:3000<br>
 <b>Nb :</b> changez ADRESSE-DE-VOTRE-SERVER par l\'adresse IP de votre machine ex: https://127.0.0.1:3000<br>
 ```
-Le pseudo est 		: admin
+Le pseudo est       : admin
 Le mot de passe est : admin
 ```
 
@@ -51,8 +51,8 @@ Merci de votre int&eacute;rêt<br>
 To administer your server, go to https://ADDRESS-OF-YOUR-SERVER: 3000<br>
 <b>Nb:</b> change ADDRESS-OF-YOUR-SERVER by the IP address of your machine ex: https://127.0.0.1:3000<br>
 ```
-Login 		: admin
-Password 	: admin
+Login    : admin
+Password : admin
 ```
 
 Thanks for your interest
