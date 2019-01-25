@@ -4,9 +4,9 @@
 
 Le <i>serveur FsFTP (<b>F</b>ast and <b>S</b>ecure <b>FTP</b> Server) est un serveur FTP, FTPS & HTTPS hautement configurable et Gratuit. Logiciel compatible avec Windows et Linux</i><br>
 
-><b>Démo à l'adresse <a href="https://ftp.worddev.fr:3000/" target="_blank">https://ftp.worddev.fr:3000/</a></b><br>
-><b>Installation sous linux <a href="INSTALL-LINUX.md">Cliquez-ici</a></b><br>
-><b>Installation sous Windows <a href="INSTALL-WINDOWS.md">Cliquez ici</a></b><br>
+> Démo à l'adresse <a href="https://ftp.worddev.fr:3000/">https://ftp.worddev.fr:3000/</a>
+> Installation sous linux <a href="INSTALL-LINUX.md">cliquez-ici</a>
+> Installation sous Windows <a href="INSTALL-WINDOWS.md">cliquez ici</a>
 
 <hr>
 
