@@ -31,11 +31,42 @@ Maximum inactivity time, in seconds, before disconnecting<br><br>
 
 <li><b><i>Anonymous account compatible</i></b></li>
 
+<li><b><i>Authenticated FTP access</i></b></li>
+
+<li><b><i>Complete implementation of current RFCs</i></b></li>
+
+<li><b><i>ASCII or binary type file transfers</i></b></li>
+
+<li><b><i>Active or passive mode file transfers</i></b></li>
+
+<li><b><i>Security features: chroot, resource limits, tainting</i></b></li>
+
+<li><b><i>IPv4 and IPv6 compatible</i></b></li>
+
+<li><b><i>FTP and FTPS</i></b></li>
+
+<li><b><i>Multiple domains</i></b></li>
+
+<li><b><i>Multiple users</i></b></li>
+
+<li><b><i>Users don't need a real system account</i></b></li>
+
+<li><b><i>Account aliasing</i></b></li>
+
+<li><b><i>Remote administration</i></b></li>
+
+<li><b><i>Advenced Logging (Xferlog compatible)</i></b></li>
+
+<li><b><i>Multi platform (Windows, Linux (Ubuntu, Fedora, FreeBSD, OpenSus), FreeBSD, MacOs)</i></b></li>
+
+
 <hr>
 
 <h2>Unlimited Account</h2>
 
 <p>For each account you can configure :</i></b></li></p>
+
+<li><b><i>Account aliasing</i></b></li>
 
 <li><b><i>Status</i></b></li>
 Enable/disable account<br><br>

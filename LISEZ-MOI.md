@@ -31,11 +31,41 @@ Durée maximale d'inactivité, en secondes, avant la déconnexion<br><br>
 
 <li><b><i>Compte anonyme (anonymous)</i></b></li>
 
+<li><b><i>Accès FTP sécurisé</i></b></li>
+
+<li><b><i>Implémentation complète des RFC actuels</i></b></li>
+
+<li><b><i>Transferts de fichiers de type ASCII ou binaire</i></b></li>
+
+<li><b><i>Transferts de fichiers en mode actif ou passif</i></b></li>
+
+<li><b><i>Fonctions de sécurité: chroot, limites de ressources, altération</i></b></li>
+
+<li><b><i>Compatible IPv4 et IPv6</i></b></li>
+
+<li><b><i>FTP et FTPS</i></b></li>
+
+<li><b><i>Multiple domaines</i></b></li>
+
+<li><b><i>Multilpe utilisateurs</i></b></li>
+
+<li><b><i>Les utilisateurs n'ont pas besoin d'un vrai compte système</i></b></li>
+
+<li><b><i>Compte alias</i></b></li>
+
+<li><b><i>Administration à distance</i></b></li>
+
+<li><b><i>Journalisation avancée (compatible Xferlog)</i></b></li>
+
+<li><b><i>Multi-plateformes (Windows, Linux (Ubuntu, Fedora, FreeBSD, OpenSus), FreeBSD, MacOs)</i></b></li>
+
 <hr>
 
 <h2>Compte illimité</h2>
 
 <p> Pour chaque compte vous pouvez configurer :</i></b></li></ p>
+
+<li><b><i>Des Alias</i></b></li>
 
 <li><b><i>Statut</i></b></li>
 Activer / désactiver le compte<br><br>
