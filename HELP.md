@@ -3,7 +3,7 @@
 <hr>
 
 To administer your server, go to https://IP-DE-YOUR-SERVER:3000<br>
-<br>Example: https://127.0.0.1:3000<br><br>
+Example: https://127.0.0.1:3000<br><br>
 ```
 Login    : admin
 Password : admin
@@ -23,45 +23,45 @@ cd /opt/fsftp
 
 #### To start all servers (HTTPS and FTP) type:
 ```
-fsftp start all
+service start all
 ```
 
 #### To stop all servers (HTTPS and FTP) type:
 ```
-fsftp stop all
+service stop all
 ```
 
 #### To restart all servers (HTTPS and FTP) type:
 ```
-fsftp restart all
+service restart all
 ```
 
 #### To start the web server type:
 ```
-fsftp start webserver
+service start webserver
 ```
 
 #### To stop the web server type:
 ```
-fsftp stop webserver
+service stop webserver
 ```
 
 #### To restart the web server type:
 ```
-fsftp restart webserver
+service restart webserver
 ```
 
 #### To start the FTP server type:
 ```
-fsftp start ftpserver
+service start ftpserver
 ```
 
 #### To stop the FTP server type:
 ```
-fsftp stop ftpserver
+service stop ftpserver
 ```
 
 #### To restart the FTP server type:
 ```
-fsftp restart ftpserver
+service restart ftpserver
 ```
