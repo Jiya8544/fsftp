@@ -1,7 +1,7 @@
 <i>This file exists in several languages. <a href="HELP.md"><u>Click here to read it in English</u></a></i>
 <hr>
 Pour administrer votre serveur, allez à l'adresse https://IP-DE-VOTRE-SERVER:3000<br>
-Exemple : https://127.0.0.1:3000<br>
+Exemple : https://127.0.0.1:3000<br><br>
 
 ```
 Votre Pseudo : admin
