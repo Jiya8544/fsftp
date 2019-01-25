@@ -1,15 +1,7 @@
 <i>This file exists in several languages. <a href="HELP.md"><u>Click here to read it in English</u></a></i>
-
 <hr>
+Pour administrer votre serveur, allez à l'adresse https://IP-DE-VOTRE-SERVER:3000 ex: https://127.0.0.1:3000
 
-Pour démarrer le serveur ftp ou le serveurn web (controle panele) :
-
-Ouvrez la console. ( La ligne de commande )
-
-
-
-<hr>
-Pour administrer votre serveur, allez à l'adresse https://IP-DE-VOTRE-SERVER:3000 ex: https://127.0.0.1:3000<br>
 ```
 Votre Pseudo : admin
 Mot de passe : admin
@@ -36,8 +28,3 @@ Pour démarrer, arrêter ou redémarrer les serveurs, ouvrez la console (ligne d
 	fsftp stop ftpserver
 ### Pour redémarrer le serveur FTP tapez :
 	fsftp restart ftpserver
-
-
-
-
-
