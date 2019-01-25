@@ -7,9 +7,9 @@ Exemple : https://127.0.0.1:3000<br><br>
 Votre Pseudo : admin
 Mot de passe : admin
 ```
-Pour démarrer, arrêter ou redémarrer les serveurs, ouvrez la console (ligne de commande) et placez-vous dans le repertoire où vous avez installé le logiciel. Par défaut <b>C:\\fsftp</b> sous Windows et <b>/opt/fsftp</b> sous les autres systèmes d'exploitation.<br>
+Pour démarrer, arrêter ou redémarrer les serveurs, ouvrez la console (ligne de commande) et placez-vous dans le répertoire où vous avez installé le logiciel. Par défaut <b>C:\\fsftp</b> sous Windows et <b>/opt/fsftp</b> sous les autres systèmes d'exploitation.<br>
 
-##### Sous windows
+##### Sous Windows
 ```
 cd C:\\fsftp
 ```
