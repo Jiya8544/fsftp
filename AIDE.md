@@ -9,57 +9,57 @@ Mot de passe : admin
 ```
 Pour démarrer, arrêter ou redémarrer les serveurs, ouvrez la console (ligne de commande) et placez-vous dans le répertoire où vous avez installé le logiciel. Par défaut <b>C:\\fsftp</b> sous Windows et <b>/opt/fsftp</b> sous les autres systèmes d'exploitation.<br>
 
-##### Sous Windows
+#### Sous Windows
 ```
 cd C:\\fsftp
 ```
 
-##### Sous Linux etc...
+#### Sous Linux etc...
 ```
 cd /opt/fsftp
 ```
 
-##### Pour démarrer tous les serveurs (HTTPS et FTP) tapez :
+#### Pour démarrer tous les serveurs (HTTPS et FTP) tapez :
 ```
 service start all
 ```
 
-##### Pour arrêter tous les serveurs (HTTPS et FTP) tapez :
+#### Pour arrêter tous les serveurs (HTTPS et FTP) tapez :
 ```
 service stop all
 ```
 
-##### Pour redémarrer tous les serveurs (HTTPS et FTP) tapez :
+#### Pour redémarrer tous les serveurs (HTTPS et FTP) tapez :
 ```
 service restart all
 ```
 
-##### Pour démarrer le serveur web tapez :
+#### Pour démarrer le serveur web tapez :
 ```
 service start webserver
 ```
 
-##### Pour arrêter le serveur web tapez :
+#### Pour arrêter le serveur web tapez :
 ```
 service stop webserver
 ```
 
-##### Pour redémarrer le serveur web tapez :
+#### Pour redémarrer le serveur web tapez :
 ```
 service restart webserver
 ```
 
-##### Pour démarrer le serveur FTP tapez :
+#### Pour démarrer le serveur FTP tapez :
 ```
 service start ftpserver
 ```
 
-##### Pour arrêter le serveur FTP tapez :
+#### Pour arrêter le serveur FTP tapez :
 ```
 service stop ftpserver
 ```
 
-##### Pour redémarrer le serveur FTP tapez :
+#### Pour redémarrer le serveur FTP tapez :
 ```
 service restart ftpserver
 ```
