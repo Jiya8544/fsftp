@@ -136,7 +136,21 @@ Enregistrez les journaux pour cet utilisateur séparément<br><br>
 
 
 <li><b><i>Anti attaque par Force-Brute</i></b></li>
-FsFTP Server dispose d'un Anti attaque par Force Brute<br><br>
+FsFTP Server dispose d'un Anti attaque par Force Brute<br>
+
+
+<h2>Un message de la part de Lassaad ZOUARI, Créateur de FsFTP Server</h2>
+
+FsFTP est l'un des serveurs FTP le plus sécurisé et le plus simple d'utilisation de sa catégorie. Il est 100% gratuit, sans pub et sans frais cachés.<br>
+<br>
+Comme vous le savez, la publicité est l'outils le plus utilisé pour rentabiliser son site ou son projet. Mais je n'en veux pas ! De même, j'aurais pu créer une entreprise commerciale et y vendre des espaces publicitaires ou vendre des licences du logiciel. Mais j'ai décidé d'en faire quelque chose de différent.<br>
+<br>
+Mais location de serveurs, hébergement, des milliers d'heures de programmation, maintenance, développement etc... Nous coutent cher. Déplus nous travaillons dur pour vous proposer une solution efficace et gratuite. Aujourd'hui, nous remplissons notre mission mais nous avons besoin de votre contribution. Si chaque personne lisant ce message donnait, notre levée de fonds serait achevée en à peine une heure ! Je vous remercie de faire un don de 5, 20, 50 ou le montant de votre choix afin que nous puissions préserver ce projet.<br>
+<br>
+Pour faire un don, <a href="https://worddev.fr/?f=don&amp;lg=fr" target="_blank">cliquez ici</a><br>
+<br>
+Merci :) 
+
 
 <br> <hr><br>
 <img src="img/img1-fr.png">

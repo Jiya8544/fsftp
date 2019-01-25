@@ -139,6 +139,19 @@ Save the logs for this user separately<br><br>
 FsFTP Server has an Anti Brute-Force attack<br><br>
 
 
+<h2>A message from Lassaad ZOUARI, Creator of FsFTP Server</h2>
+
+FsFTP is one of the most secure and easy-to-use FTP servers in its class. It's 100% free, with no ads and no hidden fees.<br>
+<br>
+As you know, advertising is the most used tool to make your site or project profitable. But I do not want it! Likewise, I could have started a commercial business and sold advertising space or sold software licenses. But I decided to do something different.<br>
+<br>
+But server rentals, hosting, thousands of hours of programming, maintenance, development etc ... We are expensive. We work hard to offer you an efficient and free solution. Today, we fulfill our mission but we need your contribution. If every person reading this message gave, our fundraising would be completed in just one hour! I thank you for making a donation of 5, 20, 50 or the amount of your choice so that we can preserve this project.<br>
+<br>
+To make a donation, <a href="https://worddev.fr/?f=don&amp;lg=fr" target="_blank">click here</a><br>
+<br>
+Thank you :) 
+
+
 <br><hr><br>
 <img src="img/img1.png">
 <br><hr><br>
