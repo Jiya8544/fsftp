@@ -92,7 +92,6 @@ Chaque compte peut avoir son propre répertoire<br><br>
 
 Les droits d'accès (<b>CHMOD</b>) gèrent quelles actions les utilisateurs ont le droit d'effectuer sur les fichiers (lecture, écriture et exécution)<br><br>
 
-
 <li><b><i>Autorisations de répertoire</i></b></li>
 - Creat : créer un nouveau répertoire ou un sous-dossier</i></b></li>
 - Delete : pouvez supprimer un répertoire ou un sous-dossier et leur contenu</i></b></li>
@@ -127,7 +126,6 @@ Par défaut, les fichiers et les répertoires avec l'attribut caché (qui commen
 
 <li><b><i>Forcer l'affichage des fichiers et répertoires temporaires</i></b></li>
 Par défaut, les fichiers et les répertoires qui se terminent par le caractère ~ "tilde" (par exemple: tmp~, newFile~, myDirectory~ ...) ne seront pas affichés pour les utilisateurs dans l'explorateur. Vous pouvez ainsi forcer leur affichage<br><br>
-
 
 <li><b><i>Utilisateur et Groupe</i></b></li>
 Utilisateur/Groupe : Nom (ou #numéro) de l'utilisateur/groupe sous lesquels ce compte doit être exécuté.<br>

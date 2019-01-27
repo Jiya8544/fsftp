@@ -127,9 +127,7 @@ By default, files and directories with the hidden attribute (which start with a 
 <li><b><i>Force Display Temporary Files and Directories</i></b></li>
 By default, files and directories that end with the ~ "tilde" character (eg: tmp~, newFile~, myDirectory~ ...) will not be displayed to users in the explorer. You can force their display by setting this directive to Enable<br><br>	
 
-
 <li><b><i>User and Group</i></b></li>
-
 User/Group: The name (or #number) of the User/Group to run this account as.<br>
 These options are useful if you use eg suEXEC and/or suPHP or for web-hosting<br><br>
 
@@ -142,7 +140,7 @@ Save the logs for this user separately<br><br>
 
 
 <li><b><i>Anti Brute-Force attack</i></b></li>
-FsFTP Server has an Anti Brute-Force attack<br><br>
+FsFTP Server has an Anti Brute-Force attack<br>
 
 
 <h2>A message from Lassaad ZOUARI, Creator of FsFTP Server</h2>
