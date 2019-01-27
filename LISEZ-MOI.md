@@ -132,7 +132,7 @@ Utilisateur/Groupe : Nom (ou #numéro) de l'utilisateur/groupe sous lesquels ce 
 Ces options sont utiles si vous utilisez par exemple suEXEC et/ou suPHP ou pour un hebergement web.<br><br>
 
 <li><b><i>Journalisation du compte</i></b></li>
-Activer/désactiver les logs pour ce compte. Toutes ses activités seront enregistrées au format <b>Xferlog</b>
+Activer/désactiver les logs pour ce compte. Toutes ses activités seront enregistrées au format <b>Xferlog</b><br><br>
 
 <li><b><i>Enregistrer les journaux séparément</i></b></li>
 Enregistrez les journaux pour cet utilisateur séparément<br><br>
