@@ -82,7 +82,7 @@ FsFTP Server supports secure SSL and TLS connections (in Explicit and Implicit),
 <li><b><i>User Directory</i></b></li>
 Each account can have its own directory<br><br>
 
-<li><b><i>Autorisations des fichiers</i></b></li>
+<li><b><i>File Permissions</i></b></li>
 - Read: can Read (download) file/contents<br>
 - New: Can Create a new file or write contents in existen files<br>
 - Delete: Can Delete Files<br>
@@ -104,7 +104,10 @@ Access rights (<b>CHMOD</b>) manage what actions users have the right to perform
 Access rights (<b>CHMOD</b>) manage what actions users have the right to perform on Directories (read, write, and execute)<br><br>
 
 <li><b><i>Banned File Extension</i></b></li>
-You can specify multiple values by separating them with a comma ","Eg: "exe, bat, cmd, vb, vbs, vbe"<br><br>
+You can specify multiple values by separating them with a comma "<b>,</b>" Eg: "exe, bat, cmd, vb"<br><br>
+
+<li><b><i>Allowed File Extension</i></b></li>
+You can specify multiple values by separating them with a comma "<b>,</b>" Eg: "html, txt, doc, pdf"<br><br>
 
 <li><b><i>Allowed IPs</i></b></li>
 The account can only connect from these IPs. Any connection from an IP not listed here will be rejected<br><br>

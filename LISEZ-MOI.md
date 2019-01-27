@@ -105,7 +105,10 @@ Les droits d'accès (<b>CHMOD</b>) gèrent quelles actions les utilisateurs ont 
 Les droits d'accès (<b>CHMOD</b>) gèrent quelles actions les utilisateurs ont le droit d'effectuer sur les répertoires (lecture, écriture et exécution)<br><br>
 
 <li><b><i>Extension de fichier interdite</i></b></li>
-Vous pouvez spécifier plusieurs valeurs en les séparant par une virgule "," Par exemple: "exe, bat, cmd, vb, vbs, vbe"<br><br>
+Vous pouvez spécifier plusieurs valeurs en les séparant par une virgule "," Par exemple: "exe, bat, cmd, vb"<br><br>
+
+<li><b><i>Extension de fichier autorisée</i></b></li>
+Vous pouvez spécifier plusieurs valeurs en les séparant par une virgule "<b>,</b>", par exemple: "html, txt, doc, pdf"<br><br>
 
 <li><b><i>IP autorisées</i></b></li>
 Le compte ne peut se connecter qu'à partir de ces adresses IP. Toute connexion provenant d'une adresse IP non répertoriée ici sera rejetée<br><br>
