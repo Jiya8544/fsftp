@@ -48,7 +48,7 @@ Le mot de passe est : admin
 Merci de votre int&eacute;rêt<br>
 
 > <b>EN</b> - Congratulations !<br>
-To administer your server, go to https://ADDRESS-OF-YOUR-SERVER: 3000<br>
+To administer your server, go to https://ADDRESS-OF-YOUR-SERVER:3000<br>
 <b>Nb:</b> change ADDRESS-OF-YOUR-SERVER by the IP address of your machine ex: https://127.0.0.1:3000<br>
 ```
 Login    : admin
