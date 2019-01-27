@@ -21,7 +21,7 @@
 Pour administrer votre serveur, allez à l'adresse https://ADRESSE-DE-VOTRE-SERVER:3000<br>
 <b>Nb :</b> changez ADRESSE-DE-VOTRE-SERVER par l'adresse IP de votre machine ex: https://127.0.0.1:3000
 ```
-Le pseudo est 		: admin
+Le pseudo est       : admin
 Le mot de passe est : admin
 ```
 
