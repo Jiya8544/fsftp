@@ -59,7 +59,7 @@ Durée maximale d'inactivité, en secondes, avant la déconnexion<br><br>
 
 <li><b><i>Journalisation avancée (compatible Xferlog)</i></b></li>
 
-<li><b><i>Multiple platforms ( Windows toutes les versions, Linux [ Debian, Ubuntu, Fedora, FreeBSD, OpenSuse, Centos, Arch Linux, etc... ], MacOs )</i></b></li>
+<li><b><i>Multiple platforms ( Windows toutes les versions, Linux [ Debian, Ubuntu, Fedora, FreeBSD, OpenSuse, Centos, Arch Linux, Red Hat, etc... ], MacOs )</i></b></li>
 
 <hr>
 

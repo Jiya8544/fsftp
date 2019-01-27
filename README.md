@@ -60,7 +60,7 @@ Maximum inactivity time, in seconds, before disconnecting<br><br>
 
 <li><b><i>Advenced Logging (Xferlog compatible)</i></b></li>
 
-<li><b><i>Multi platform ( Windows All version, Linux [ Debian, Ubuntu, Fedora, FreeBSD, OpenSuse, Centos, Arch Linux, etc... ], MacOs )</i></b></li>
+<li><b><i>Multi platform ( Windows All version, Linux [ Debian, Ubuntu, Fedora, FreeBSD, OpenSuse, Centos, Arch Linux, Red Hat, etc... ], MacOs )</i></b></li>
 
 
 <hr>
