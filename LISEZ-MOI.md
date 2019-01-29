@@ -156,7 +156,7 @@ Comme vous le savez, la publicité est l'outils le plus utilisé pour rentabilis
 <br>
 Mais location de serveurs, hébergement, des milliers d'heures de programmation, maintenance, développement etc... Nous coutent cher. Déplus nous travaillons dur pour vous proposer une solution efficace et gratuite. Aujourd'hui, nous remplissons notre mission mais nous avons besoin de votre contribution. Si chaque personne lisant ce message donnait, notre levée de fonds serait achevée en à peine une heure ! Je vous remercie de faire un don de 5, 20, 50 ou le montant de votre choix afin que nous puissions préserver ce projet.<br>
 <br>
-Pour faire un don, <a href="https://worddev.fr/?f=don&amp;lg=fr" target="_blank">cliquez ici</a><br>
+Pour faire un don, <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=PX5B8E9T5RRGL&source=url" target="_blank">cliquez ici</a><br>
 <br>
 Merci :)<br><br>
 

@@ -156,7 +156,7 @@ As you know, advertising is the most used tool to make your site or project prof
 <br>
 But server rentals, hosting, thousands of hours of programming, maintenance, development etc ... We are expensive. We work hard to offer you an efficient and free solution. Today, we fulfill our mission but we need your contribution. If every person reading this message gave, our fundraising would be completed in just one hour! I thank you for making a donation of 5, 20, 50 or the amount of your choice so that we can preserve this project.<br>
 <br>
-To make a donation, <a href="https://worddev.fr/?f=don&amp;lg=en" target="_blank">click here</a><br>
+To make a donation, <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=PX5B8E9T5RRGL&source=url" target="_blank">click here</a><br>
 <br>
 Thank you :) <br><br>
 
