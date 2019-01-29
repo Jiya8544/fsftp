@@ -12,7 +12,8 @@ Le <i>serveur FsFTP (<b>F</b>ast and <b>S</b>ecure <b>FTP</b> Server) est un ser
 > Installation sous linux <a href="INSTALL-LINUX.md">cliquez-ici</a><br>
 > Installation sous Windows <a href="INSTALL-WINDOWS.md">cliquez ici</a><br>
 
-<img src="touchicon.png" alt="FsFTP Server" title="FsFTP Server" align="left"><h2>Serveur FsFTP</h2>
+
+<h2><img src="touchicon.png" hight="50" width="50" alt="FsFTP Server" title="FsFTP Server" align="left">Serveur FsFTP</h2>
 
 <li><b><i>Prend en charge les connexions sécurisées SSL et TLS (explicite et implicite). FTP et FTPS</i></b></li>
 
