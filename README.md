@@ -1,5 +1,4 @@
 <img src="logo.png" alt="FsFTP Server" title="FsFTP Server" align="right">
-
 <h1>FsFTP Server (Fast and Secure FTP Server)</h1>
 
 <i>Ce fichier existe en plusieurs langues. <a href="LISEZ-MOI.md"><u>Cliquez ici pour le lire en Français</i></a></i>
@@ -12,7 +11,8 @@
 > Installation under linux <a href="INSTALL-LINUX.md">click here</a><br>
 > Installation under Windows <a href="INSTALL-WINDOWS.md">click here</a><br>
 
-<h2><img src="touchicon.png" hight="50" width="50" alt="FsFTP Server" title="FsFTP Server" align="left">FsFTP Server</h2>
+<img src="touchicon.png" hight="50" width="50" alt="FsFTP Server" title="FsFTP Server" align="left">
+<h2>FsFTP Server</h2>
 
 <li><b><i>Full supports secure SSL and TLS connections (in Explicit and Implicit). FTP and FTPS</i></b></li>
 
@@ -66,6 +66,7 @@ Maximum inactivity time, in seconds, before disconnecting<br><br>
 
 <hr>
 
+<img src="touchicon.png" hight="50" width="50" alt="FsFTP Server" title="FsFTP Server" align="left">
 <h2>Unlimited Account</h2>
 
 <p>For each account you can configure :</i></b></li></p>
@@ -144,6 +145,7 @@ Save the logs for this user separately<br><br>
 FsFTP Server has an Anti Brute-Force attack<br>
 
 
+<img src="touchicon.png" hight="50" width="50" alt="FsFTP Server" title="FsFTP Server" align="left">
 <h2>A message from Lassaad ZOUARI, Creator of FsFTP Server</h2>
 
 FsFTP is one of the most secure and easy-to-use FTP servers in its class. It's 100% free, with no ads and no hidden fees.<br>
