@@ -7,6 +7,7 @@
 
 Le <i>serveur FsFTP (<b>F</b>ast and <b>S</b>ecure <b>FTP</b> Server) est un serveur FTP, FTPS & HTTPS hautement configurable et Gratuit. Logiciel compatible avec Windows et Linux</i><br>
 
+> Captures d'écran <a href="CAPTURES.md">click here</a><br>
 > Démo en ligne <a href="DEMO-FR.md">cliquez-ici</a><br>
 > Installation sous linux <a href="INSTALL-LINUX.md">cliquez-ici</a><br>
 > Installation sous Windows <a href="INSTALL-WINDOWS.md">cliquez ici</a><br><br>
@@ -68,7 +69,6 @@ Durée maximale d'inactivité, en secondes, avant la déconnexion<br><br>
 <h2>Compte illimité</h2>
 
 <b><i>Pour chaque compte vous pouvez configurer :</i></b>
-
 
 <li><b><i>Des Alias</i></b></li>
 
