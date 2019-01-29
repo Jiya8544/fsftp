@@ -1,3 +1,4 @@
+<style>
 hr.style-one {
     border: 0;
     height: 1px;
@@ -7,10 +8,10 @@ hr.style-one {
     background-image:     -ms-linear-gradient(left, #ccc, #333, #ccc); 
     background-image:      -o-linear-gradient(left, #ccc, #333, #ccc); 
 }
-
+</style>
 <i>This file exists in several languages. <a href="SCREENSHOT.md"><u>Click here to read it in English</u></a></i>
 
-<hr><br>
+<hr class="style-one"><br>
 
 ![FsFTP Server](img/server-config.png?raw=true)<br><br>
 
