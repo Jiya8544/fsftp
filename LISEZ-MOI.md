@@ -148,7 +148,7 @@ FsFTP Server dispose d'un Anti attaque par Force Brute<br><br>
 ![FsFTP Server](img/liste-comptes.png?raw=true)<br><br><br>
 
 <img src="img/touchicon.png" hight="50" width="50" alt="FsFTP Server" title="FsFTP Server" align="left">
-<h2>Un message de la part de Lassaad ZOUARI, Créateur de FsFTP Server</h2>
+<h2>Un message de la part de Lassaad ZOUARI, créateur de FsFTP Server</h2>
 
 FsFTP est l'un des serveurs FTP le plus sécurisé et le plus simple d'utilisation de sa catégorie. Il est 100% gratuit, sans pub et sans frais cachés.<br>
 <br>
