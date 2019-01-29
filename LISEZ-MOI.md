@@ -1,9 +1,10 @@
 <img src="logo.png" alt="FsFTP Server" title="FsFTP Server" align="right">
-</a>
-<h2>FsFTP Server (<u>F</u>ast and <u>S</u>ecure <u>FTP</u> Server)</h2>
 
-<h2>This file exists in several languages. <a href="README.md"><u>Click here to read it in English</u></a></h2>
+<h1>FsFTP Server (Fast and Secure FTP Server)</h1>
 
+<i>This file exists in several languages. <a href="README.md"><u>Click here to read it in English</u></a></i>
+
+<hr>
 
 Le <i>serveur FsFTP (<b>F</b>ast and <b>S</b>ecure <b>FTP</b> Server) est un serveur FTP, FTPS & HTTPS hautement configurable et Gratuit. Logiciel compatible avec Windows et Linux</i><br>
 
@@ -11,9 +12,7 @@ Le <i>serveur FsFTP (<b>F</b>ast and <b>S</b>ecure <b>FTP</b> Server) est un ser
 > Installation sous linux <a href="INSTALL-LINUX.md">cliquez-ici</a><br>
 > Installation sous Windows <a href="INSTALL-WINDOWS.md">cliquez ici</a><br>
 
-<hr>
-
-<h2>Serveur FsFTP</h2>
+<img src="logo_grey.png" alt="FsFTP Server" title="FsFTP Server" align="left"><h2>Serveur FsFTP</h2>
 
 <li><b><i>Prend en charge les connexions sécurisées SSL et TLS (explicite et implicite). FTP et FTPS</i></b></li>
 

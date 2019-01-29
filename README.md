@@ -1,3 +1,7 @@
+<img src="logo.png" alt="FsFTP Server" title="FsFTP Server" align="right">
+
+<h1>FsFTP Server (Fast and Secure FTP Server)</h1>
+
 <i>Ce fichier existe en plusieurs langues. <a href="LISEZ-MOI.md"><u>Cliquez ici pour le lire en Français</i></a></i>
 
 <hr>
@@ -7,9 +11,6 @@
 > Demo online <a href="DEMO-EN.md">click here</a><br>
 > Installation under linux <a href="INSTALL-LINUX.md">click here</a><br>
 > Installation under Windows <a href="INSTALL-WINDOWS.md">click here</a><br>
-
-
-<hr>
 
 <h2>FsFTP Server</h2>
 
