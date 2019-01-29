@@ -9,7 +9,7 @@
 
 > Demo online <a href="DEMO-EN.md">click here</a><br>
 > Installation under linux <a href="INSTALL-LINUX.md">click here</a><br>
-> Installation under Windows <a href="INSTALL-WINDOWS.md">click here</a><br>
+> Installation under Windows <a href="INSTALL-WINDOWS.md">click here</a><br><br>
 
 <img src="touchicon.png" hight="50" width="50" alt="FsFTP Server" title="FsFTP Server" align="left">
 <h2>FsFTP Server</h2>
@@ -61,10 +61,7 @@ Maximum inactivity time, in seconds, before disconnecting<br><br>
 
 <li><b><i>Advenced Logging (Xferlog compatible)</i></b></li>
 
-<li><b><i>Multi platform ( Windows All version, Linux [ Debian, Ubuntu, Fedora, FreeBSD, OpenSuse, Centos, Arch Linux, Red Hat, etc... ], MacOs )</i></b></li>
-
-
-<hr>
+<li><b><i>Multi platform ( Windows All version, Linux [ Debian, Ubuntu, Fedora, FreeBSD, OpenSuse, Centos, Arch Linux, Red Hat, etc... ], MacOs )</i></b></li><br><br>
 
 <img src="touchicon.png" hight="50" width="50" alt="FsFTP Server" title="FsFTP Server" align="left">
 <h2>Unlimited Account</h2>
@@ -142,7 +139,7 @@ Save the logs for this user separately<br><br>
 
 
 <li><b><i>Anti Brute-Force attack</i></b></li>
-FsFTP Server has an Anti Brute-Force attack<br>
+FsFTP Server has an Anti Brute-Force attack<br><br>
 
 
 <img src="touchicon.png" hight="50" width="50" alt="FsFTP Server" title="FsFTP Server" align="left">

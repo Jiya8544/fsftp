@@ -9,7 +9,7 @@ Le <i>serveur FsFTP (<b>F</b>ast and <b>S</b>ecure <b>FTP</b> Server) est un ser
 
 > Démo en ligne <a href="DEMO-FR.md">cliquez-ici</a><br>
 > Installation sous linux <a href="INSTALL-LINUX.md">cliquez-ici</a><br>
-> Installation sous Windows <a href="INSTALL-WINDOWS.md">cliquez ici</a><br>
+> Installation sous Windows <a href="INSTALL-WINDOWS.md">cliquez ici</a><br><br>
 
 
 <img src="touchicon.png" hight="50" width="50" alt="FsFTP Server" title="FsFTP Server" align="left">
@@ -62,9 +62,7 @@ Durée maximale d'inactivité, en secondes, avant la déconnexion<br><br>
 
 <li><b><i>Journalisation avancée (compatible Xferlog)</i></b></li>
 
-<li><b><i>Multiple platforms ( Windows toutes les versions, Linux [ Debian, Ubuntu, Fedora, FreeBSD, OpenSuse, Centos, Arch Linux, Red Hat, etc... ], MacOs )</i></b></li>
-
-<hr>
+<li><b><i>Multiple platforms ( Windows toutes les versions, Linux [ Debian, Ubuntu, Fedora, FreeBSD, OpenSuse, Centos, Arch Linux, Red Hat, etc... ], MacOs )</i></b></li><br><br>
 
 <img src="touchicon.png" hight="50" width="50" alt="FsFTP Server" title="FsFTP Server" align="left">
 <h2>Compte illimité</h2>
@@ -143,7 +141,7 @@ Enregistrez les journaux pour cet utilisateur séparément<br><br>
 
 
 <li><b><i>Anti attaque par Force-Brute</i></b></li>
-FsFTP Server dispose d'un Anti attaque par Force Brute<br>
+FsFTP Server dispose d'un Anti attaque par Force Brute<br><br>
 
 
 <img src="touchicon.png" hight="50" width="50" alt="FsFTP Server" title="FsFTP Server" align="left">
