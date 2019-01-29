@@ -2,13 +2,13 @@
 
 <hr>
 
-<img src="img/server-config.png" alt="FsFTP Server" title="FsFTP Server" align="center"><br><br>
+![Demo Animation](img/server-config.png?raw=true)
 
 <hr>
 
-<img src="img/list-domains.png" alt="FsFTP Server" title="FsFTP Server" align="center"><br><br>
+![Demo Animation](img/list-domains.png?raw=true)
 
 <hr>
 
-<img src="img/add-domain.png" alt="FsFTP Server" title="FsFTP Server" align="center"><br><br>
+![Demo Animation](img/add-domain.png?raw=true)
 
