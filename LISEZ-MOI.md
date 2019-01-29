@@ -65,7 +65,7 @@ Durée maximale d'inactivité, en secondes, avant la déconnexion<br><br>
 
 <li><b><i>Multiple platforms ( Windows toutes les versions, Linux [ Debian, Ubuntu, Fedora, FreeBSD, OpenSuse, Centos, Arch Linux, Red Hat, etc... ], MacOs )</i></b></li><br>
 
-<img src="img/domains.png" alt="FsFTP Server" title="FsFTP Server" align="center"><br><br>
+![FsFTP Server](img/domaines.png?raw=true)<br><br>
 
 <img src="img/touchicon.png" hight="50" width="50" alt="FsFTP Server" title="FsFTP Server" align="left">
 <h2>Compte illimité</h2>
@@ -145,7 +145,7 @@ Enregistrez les journaux pour cet utilisateur séparément<br><br>
 <li><b><i>Anti attaque par Force-Brute</i></b></li>
 FsFTP Server dispose d'un Anti attaque par Force Brute<br><br>
 
-<img src="img/liste-comptes.png" alt="FsFTP Server" title="FsFTP Server" align="center"><br><br>
+![FsFTP Server](img/liste-comptes.png?raw=true)<br><br>
 
 <img src="img/touchicon.png" hight="50" width="50" alt="FsFTP Server" title="FsFTP Server" align="left">
 <h2>Un message de la part de Lassaad ZOUARI, Créateur de FsFTP Server</h2>
@@ -170,7 +170,9 @@ FsFTP server est un logiciel <u>gratuit et sans frais cachés</u>. Vous pouvez l
 <li>https://froxlor.org/</li>
 
 <hr><br>
-<img src="img/img1-fr.png">
+
+![FsFTP Server](img/img1-fr.png?raw=true)
+
 <br> <hr><br>
-<img src="img/img2-fr.png">
+![FsFTP Server](img/img2-fr.png?raw=true)
 <br><br>
