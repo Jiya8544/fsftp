@@ -142,10 +142,10 @@ Activer/désactiver les logs pour ce compte. Toutes ses activités seront enregi
 <li><b><i>Enregistrer les journaux séparément</i></b></li>
 Enregistrez les journaux pour cet utilisateur séparément<br><br>
 
-
 <li><b><i>Anti attaque par Force-Brute</i></b></li>
 FsFTP Server dispose d'un Anti attaque par Force Brute<br><br>
 
+<img src="img/liste-comptes.png" alt="FsFTP Server" title="FsFTP Server" align="center"><br><br>
 
 <img src="img/touchicon.png" hight="50" width="50" alt="FsFTP Server" title="FsFTP Server" align="left">
 <h2>Un message de la part de Lassaad ZOUARI, Créateur de FsFTP Server</h2>

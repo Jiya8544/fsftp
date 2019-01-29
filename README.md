@@ -145,6 +145,7 @@ Save the logs for this user separately<br><br>
 <li><b><i>Anti Brute-Force attack</i></b></li>
 FsFTP Server has an Anti Brute-Force attack<br><br>
 
+<img src="img/list-accounts.png" alt="FsFTP Server" title="FsFTP Server" align="center"><br><br>
 
 <img src="img/touchicon.png" hight="50" width="50" alt="FsFTP Server" title="FsFTP Server" align="left">
 <h2>A message from Lassaad ZOUARI, Creator of FsFTP Server</h2>
