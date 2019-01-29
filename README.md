@@ -155,7 +155,16 @@ But server rentals, hosting, thousands of hours of programming, maintenance, dev
 <br>
 To make a donation, <a href="https://worddev.fr/?f=don&amp;lg=en" target="_blank">click here</a><br>
 <br>
-Thank you :) 
+Thank you :) <br><br>
+
+<img src="touchicon.png" hight="50" width="50" alt="FsFTP Server" title="FsFTP Server" align="left">
+<h2>License</h2>
+FsFTP server est un logiciel <u>gratuit et sans frais cachés</u>. Vous pouvez l'utiliser et le distribuer conformément à notre <a href="LICENSE.md"><u>licence</u></a><br><br>
+
+<img src="touchicon.png" hight="50" width="50" alt="FsFTP Server" title="FsFTP Server" align="left">
+<h2>Lins</h2>
+<li>https://worddev.fr</li>
+<li>https://froxlor.org/</li>
 
 <hr><br>
 <img src="img/img1.png">

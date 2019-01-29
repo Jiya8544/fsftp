@@ -156,7 +156,16 @@ Mais location de serveurs, hébergement, des milliers d'heures de programmation,
 <br>
 Pour faire un don, <a href="https://worddev.fr/?f=don&amp;lg=fr" target="_blank">cliquez ici</a><br>
 <br>
-Merci :) 
+Merci :)<br><br>
+
+<img src="touchicon.png" hight="50" width="50" alt="FsFTP Server" title="FsFTP Server" align="left">
+<h2>Licence</h2>
+FsFTP server est un logiciel <u>gratuit et sans frais cachés</u>. Vous pouvez l'utiliser et le distribuer conformément à notre <a href="LICENCE-FR.md"><u>licence</u></a><br><br>
+
+<img src="touchicon.png" hight="50" width="50" alt="FsFTP Server" title="FsFTP Server" align="left">
+<h2>Liens</h2>
+<li>https://worddev.fr</li>
+<li>https://froxlor.org/</li>
 
 <hr><br>
 <img src="img/img1-fr.png">
