@@ -1,10 +1,9 @@
-<img src="https://camo.githubusercontent.com/4bbf0ddd05bdc227cae6926339df15bf43db177f/68747470733a2f2f61696d656f732e6f72672f66696c6561646d696e2f74656d706c6174652f69636f6e732f6c6f676f2e706e67" alt="Aimeos logo" title="Aimeos" data-canonical-src="https://aimeos.org/fileadmin/template/icons/logo.png" style="max-width:100%;" height="60" align="right">
+<img src="logo.png" alt="FsFTP Server" title="FsFTP Server" align="right">
 </a>
-<h1><a id="user-content-aimeos-typo3-extension" class="anchor" aria-hidden="true" href="#aimeos-typo3-extension"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Aimeos TYPO3 extension</h1>
+<h1>FsFTP Server (<u>F</u>ast and <u>S</u>ecure <u>FTP</u> Server)</h1>
 
-<i>This file exists in several languages. <a href="README.md"><u>Click here to read it in English</u></a></i>
+<h3>This file exists in several languages. <a href="README.md"><u>Click here to read it in English</u></a></h3>
 
-<hr>
 
 Le <i>serveur FsFTP (<b>F</b>ast and <b>S</b>ecure <b>FTP</b> Server) est un serveur FTP, FTPS & HTTPS hautement configurable et Gratuit. Logiciel compatible avec Windows et Linux</i><br>
 
