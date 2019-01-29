@@ -145,7 +145,7 @@ Enregistrez les journaux pour cet utilisateur séparément<br><br>
 <li><b><i>Anti attaque par Force-Brute</i></b></li>
 FsFTP Server dispose d'un Anti attaque par Force Brute<br><br>
 
-![FsFTP Server](img/liste-comptes.png?raw=true)<br><br>
+![FsFTP Server](img/liste-comptes.png?raw=true)<br><br><br>
 
 <img src="img/touchicon.png" hight="50" width="50" alt="FsFTP Server" title="FsFTP Server" align="left">
 <h2>Un message de la part de Lassaad ZOUARI, Créateur de FsFTP Server</h2>
@@ -171,8 +171,8 @@ FsFTP server est un logiciel <u>gratuit et sans frais cachés</u>. Vous pouvez l
 
 <hr><br>
 
-![FsFTP Server](img/img1-fr.png?raw=true)
+![FsFTP Server](img/img1-fr.png?raw=true)<br>
 
-<br> <hr><br>
+<br><hr><br>
 ![FsFTP Server](img/img2-fr.png?raw=true)
 <br><br>
