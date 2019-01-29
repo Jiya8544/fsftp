@@ -14,7 +14,7 @@ Le <i>serveur FsFTP (<b>F</b>ast and <b>S</b>ecure <b>FTP</b> Server) est un ser
 
 
 <img src="img/touchicon.png" hight="50" width="50" alt="FsFTP Server" title="FsFTP Server" align="left">
-<h2>Serveur FsFTP</h2>
+<h2><span style="color:blue;">Serveur FsFTP</span></h2>
 
 <li><b><i>Prend en charge les connexions sécurisées SSL et TLS (explicite et implicite). FTP et FTPS</i></b></li>
 
@@ -68,7 +68,7 @@ Durée maximale d'inactivité, en secondes, avant la déconnexion<br><br>
 ![FsFTP Server](img/domaines.png?raw=true)<br><br>
 
 <img src="img/touchicon.png" hight="50" width="50" alt="FsFTP Server" title="FsFTP Server" align="left">
-<h2>Compte illimité</h2>
+<h2 style="color:blue;">Compte illimité</h2>
 
 <b><i>Pour chaque compte vous pouvez configurer :</i></b>
 
@@ -148,7 +148,7 @@ FsFTP Server dispose d'un Anti attaque par Force Brute<br><br>
 ![FsFTP Server](img/liste-comptes.png?raw=true)<br><br><br>
 
 <img src="img/touchicon.png" hight="50" width="50" alt="FsFTP Server" title="FsFTP Server" align="left">
-<h2>Un message de la part de Lassaad ZOUARI, Créateur de FsFTP Server</h2>
+<h2 style="color:blue;">Un message de la part de Lassaad ZOUARI, Créateur de FsFTP Server</h2>
 
 FsFTP est l'un des serveurs FTP le plus sécurisé et le plus simple d'utilisation de sa catégorie. Il est 100% gratuit, sans pub et sans frais cachés.<br>
 <br>
@@ -161,11 +161,11 @@ Pour faire un don, <a href="https://worddev.fr/?f=don&amp;lg=fr" target="_blank"
 Merci :)<br><br>
 
 <img src="img/touchicon.png" hight="50" width="50" alt="FsFTP Server" title="FsFTP Server" align="left">
-<h2>Licence</h2>
+<h2 style="color:blue;">Licence</h2>
 FsFTP server est un logiciel <u>gratuit et sans frais cachés</u>. Vous pouvez l'utiliser et le distribuer conformément à notre <a href="LICENCE.md"><u>licence</u></a><br><br>
 
 <img src="img/touchicon.png" hight="50" width="50" alt="FsFTP Server" title="FsFTP Server" align="left">
-<h2>Liens</h2>
+<h2 style="color:blue;">Liens</h2>
 <li>https://worddev.fr</li>
 <li>https://froxlor.org/</li>
 
