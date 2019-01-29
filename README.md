@@ -12,7 +12,7 @@
 > Installation under linux <a href="INSTALL-LINUX.md">click here</a><br>
 > Installation under Windows <a href="INSTALL-WINDOWS.md">click here</a><br>
 
-<h2>FsFTP Server</h2>
+<img src="touchicon.png" alt="FsFTP Server" title="FsFTP Server" align="left"><h2>FsFTP Server</h2>
 
 <li><b><i>Full supports secure SSL and TLS connections (in Explicit and Implicit). FTP and FTPS</i></b></li>
 
