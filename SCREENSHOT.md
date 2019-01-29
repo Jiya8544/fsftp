@@ -2,13 +2,13 @@
 
 <hr><br>
 
-![FsFTP Server](img/server-config.png?raw=true)<br><br><br>
+![FsFTP Server](img/server-config.png?raw=true)<br><br>
 
 <hr><br>
 
-![FsFTP Server](img/list-domains.png?raw=true)<br><br><br>
+![FsFTP Server](img/list-domains.png?raw=true)<br><br>
 
 <hr><br>
 
-![FsFTP Server](img/add-domain.png?raw=true)<br><br><br>
+![FsFTP Server](img/add-domain.png?raw=true)<br><br>
 
