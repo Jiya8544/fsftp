@@ -10,5 +10,5 @@
 
 <hr>
 
-<img src="img/add-domain.png" alt="FsFTP Server" title="FsFTP Server" align="center"><br><br>
+<img src="img/add-domain.png" alt="FsFTP Server" title="FsFTP Server" align="center" width="1347"><br><br>
 
