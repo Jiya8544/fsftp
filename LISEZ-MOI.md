@@ -62,7 +62,7 @@ Durée maximale d'inactivité, en secondes, avant la déconnexion<br><br>
 
 <li><b><i>Journalisation avancée (compatible Xferlog)</i></b></li>
 
-<li><b><i>Multiple platforms ( Windows toutes les versions, Linux [ Debian, Ubuntu, Fedora, FreeBSD, OpenSuse, Centos, Arch Linux, Red Hat, etc... ], MacOs )</i></b></li><br><br>
+<li><b><i>Multiple platforms ( Windows toutes les versions, Linux [ Debian, Ubuntu, Fedora, FreeBSD, OpenSuse, Centos, Arch Linux, Red Hat, etc... ], MacOs )</i></b></li><br>
 
 <img src="touchicon.png" hight="50" width="50" alt="FsFTP Server" title="FsFTP Server" align="left">
 <h2>Compte illimité</h2>
