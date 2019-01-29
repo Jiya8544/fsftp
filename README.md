@@ -66,7 +66,7 @@ Maximum inactivity time, in seconds, before disconnecting<br><br>
 <img src="touchicon.png" hight="50" width="50" alt="FsFTP Server" title="FsFTP Server" align="left">
 <h2>Unlimited Account</h2>
 
-<p>For each account you can configure :</i></b></li></p>
+<b><i>For each account you can configure :</i></b>
 
 <li><b><i>Account aliasing</i></b></li>
 

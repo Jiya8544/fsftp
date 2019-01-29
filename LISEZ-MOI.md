@@ -67,7 +67,8 @@ Durée maximale d'inactivité, en secondes, avant la déconnexion<br><br>
 <img src="touchicon.png" hight="50" width="50" alt="FsFTP Server" title="FsFTP Server" align="left">
 <h2>Compte illimité</h2>
 
-<p> Pour chaque compte vous pouvez configurer :</i></b></li></ p>
+<b><i>Pour chaque compte vous pouvez configurer :</i></b>
+
 
 <li><b><i>Des Alias</i></b></li>
 
