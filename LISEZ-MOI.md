@@ -1,4 +1,4 @@
-<img src="logo.png" alt="FsFTP Server" title="FsFTP Server" align="right">
+<img src="img/logo.png" alt="FsFTP Server" title="FsFTP Server" align="right">
 <h1>FsFTP Server (Fast and Secure FTP Server)</h1>
 
 <i>This file exists in several languages. <a href="README.md"><u>Click here to read it in English</u></a></i>
@@ -13,7 +13,7 @@ Le <i>serveur FsFTP (<b>F</b>ast and <b>S</b>ecure <b>FTP</b> Server) est un ser
 > Installation sous Windows <a href="INSTALL-WINDOWS.md">cliquez ici</a><br><br>
 
 
-<img src="touchicon.png" hight="50" width="50" alt="FsFTP Server" title="FsFTP Server" align="left">
+<img src="img/touchicon.png" hight="50" width="50" alt="FsFTP Server" title="FsFTP Server" align="left">
 <h2>Serveur FsFTP</h2>
 
 <li><b><i>Prend en charge les connexions sécurisées SSL et TLS (explicite et implicite). FTP et FTPS</i></b></li>
@@ -65,9 +65,9 @@ Durée maximale d'inactivité, en secondes, avant la déconnexion<br><br>
 
 <li><b><i>Multiple platforms ( Windows toutes les versions, Linux [ Debian, Ubuntu, Fedora, FreeBSD, OpenSuse, Centos, Arch Linux, Red Hat, etc... ], MacOs )</i></b></li><br>
 
-<img src="domains.png" alt="FsFTP Server" title="FsFTP Server" align="center"><br><br>
+<img src="img/domains.png" alt="FsFTP Server" title="FsFTP Server" align="center"><br><br>
 
-<img src="touchicon.png" hight="50" width="50" alt="FsFTP Server" title="FsFTP Server" align="left">
+<img src="img/touchicon.png" hight="50" width="50" alt="FsFTP Server" title="FsFTP Server" align="left">
 <h2>Compte illimité</h2>
 
 <b><i>Pour chaque compte vous pouvez configurer :</i></b>
@@ -147,7 +147,7 @@ Enregistrez les journaux pour cet utilisateur séparément<br><br>
 FsFTP Server dispose d'un Anti attaque par Force Brute<br><br>
 
 
-<img src="touchicon.png" hight="50" width="50" alt="FsFTP Server" title="FsFTP Server" align="left">
+<img src="img/touchicon.png" hight="50" width="50" alt="FsFTP Server" title="FsFTP Server" align="left">
 <h2>Un message de la part de Lassaad ZOUARI, Créateur de FsFTP Server</h2>
 
 FsFTP est l'un des serveurs FTP le plus sécurisé et le plus simple d'utilisation de sa catégorie. Il est 100% gratuit, sans pub et sans frais cachés.<br>
@@ -160,11 +160,11 @@ Pour faire un don, <a href="https://worddev.fr/?f=don&amp;lg=fr" target="_blank"
 <br>
 Merci :)<br><br>
 
-<img src="touchicon.png" hight="50" width="50" alt="FsFTP Server" title="FsFTP Server" align="left">
+<img src="img/touchicon.png" hight="50" width="50" alt="FsFTP Server" title="FsFTP Server" align="left">
 <h2>Licence</h2>
 FsFTP server est un logiciel <u>gratuit et sans frais cachés</u>. Vous pouvez l'utiliser et le distribuer conformément à notre <a href="LICENCE.md"><u>licence</u></a><br><br>
 
-<img src="touchicon.png" hight="50" width="50" alt="FsFTP Server" title="FsFTP Server" align="left">
+<img src="img/touchicon.png" hight="50" width="50" alt="FsFTP Server" title="FsFTP Server" align="left">
 <h2>Liens</h2>
 <li>https://worddev.fr</li>
 <li>https://froxlor.org/</li>

@@ -1,4 +1,4 @@
-<img src="logo.png" alt="FsFTP Server" title="FsFTP Server" align="right">
+<img src="img/logo.png" alt="FsFTP Server" title="FsFTP Server" align="right">
 <h1>FsFTP Server (Fast and Secure FTP Server)</h1>
 
 <i>Ce fichier existe en plusieurs langues. <a href="LISEZ-MOI.md"><u>Cliquez ici pour le lire en Français</i></a></i>
@@ -13,7 +13,7 @@
 > Installation under Windows <a href="INSTALL-WINDOWS.md">click here</a><br><br>
 
 
-<img src="touchicon.png" hight="50" width="50" alt="FsFTP Server" title="FsFTP Server" align="left">
+<img src="img/touchicon.png" hight="50" width="50" alt="FsFTP Server" title="FsFTP Server" align="left">
 <h2>FsFTP Server</h2>
 
 <li><b><i>Full supports secure SSL and TLS connections (in Explicit and Implicit). FTP and FTPS</i></b></li>
@@ -65,9 +65,9 @@ Maximum inactivity time, in seconds, before disconnecting<br><br>
 
 <li><b><i>Multi platform ( Windows All version, Linux [ Debian, Ubuntu, Fedora, FreeBSD, OpenSuse, Centos, Arch Linux, Red Hat, etc... ], MacOs )</i></b></li><br>
 
-<img src="domains.png" alt="FsFTP Server" title="FsFTP Server" align="center"><br><br>
+<img src="img/domains.png" alt="FsFTP Server" title="FsFTP Server" align="center"><br><br>
 
-<img src="touchicon.png" hight="50" width="50" alt="FsFTP Server" title="FsFTP Server" align="left">
+<img src="img/touchicon.png" hight="50" width="50" alt="FsFTP Server" title="FsFTP Server" align="left">
 <h2>Unlimited Account</h2>
 
 <b><i>For each account you can configure :</i></b>
@@ -146,7 +146,7 @@ Save the logs for this user separately<br><br>
 FsFTP Server has an Anti Brute-Force attack<br><br>
 
 
-<img src="touchicon.png" hight="50" width="50" alt="FsFTP Server" title="FsFTP Server" align="left">
+<img src="img/touchicon.png" hight="50" width="50" alt="FsFTP Server" title="FsFTP Server" align="left">
 <h2>A message from Lassaad ZOUARI, Creator of FsFTP Server</h2>
 
 FsFTP is one of the most secure and easy-to-use FTP servers in its class. It's 100% free, with no ads and no hidden fees.<br>
@@ -159,11 +159,11 @@ To make a donation, <a href="https://worddev.fr/?f=don&amp;lg=en" target="_blank
 <br>
 Thank you :) <br><br>
 
-<img src="touchicon.png" hight="50" width="50" alt="FsFTP Server" title="FsFTP Server" align="left">
+<img src="img/touchicon.png" hight="50" width="50" alt="FsFTP Server" title="FsFTP Server" align="left">
 <h2>License</h2>
 FsFTP server est un logiciel <u>gratuit et sans frais cachés</u>. Vous pouvez l'utiliser et le distribuer conformément à notre <a href="LICENSE.md"><u>licence</u></a><br><br>
 
-<img src="touchicon.png" hight="50" width="50" alt="FsFTP Server" title="FsFTP Server" align="left">
+<img src="img/touchicon.png" hight="50" width="50" alt="FsFTP Server" title="FsFTP Server" align="left">
 <h2>Lins</h2>
 <li>https://worddev.fr</li>
 <li>https://froxlor.org/</li>
