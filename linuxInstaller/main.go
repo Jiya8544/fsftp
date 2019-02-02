@@ -64,15 +64,6 @@ func main() {
 		fmt.Printf("Can not apply a chmod 500 to the %s/webserver file! Please do it manually. Error: %s\r\n", dir, err)
 	}
 
-	// Create a shortcut
-	//exec.Command("ln", "-s", dir+"/service", "/usr/local/bin/fsftp").Run()
-
-	/*	// Allow connections to port 21, 990 and 3000 and enable Passive mode (1024:2024)
-		exec.Command("iptables", "-I", "INPUT", "1", "-m", "tcp", "-p", "tcp", "--dport", "21", "-j", "ACCEPT").Run()
-		exec.Command("iptables", "-I", "INPUT", "1", "-m", "tcp", "-p", "tcp", "--dport", "990", "-j", "ACCEPT").Run()
-		exec.Command("iptables", "-I", "INPUT", "1", "-m", "tcp", "-p", "tcp", "--dport", "3000", "-j", "ACCEPT").Run()
-		exec.Command("iptables", "-I", "INPUT", "-p", "tcp", "--destination-port", "1024:2024", "-j", "ACCEPT").Run()
-	*/
 	exec.Command("iptables", "-A", "INPUT", "-p", "tcp", "-i", "eth0", "--dport", "21", "-j", "ACCEPT").Run()
 	exec.Command("iptables", "-A", "INPUT", "-p", "tcp", "-i", "eth0", "--dport", "990", "-j", "ACCEPT").Run()
 	exec.Command("iptables", "-A", "INPUT", "-p", "tcp", "-i", "eth0", "--dport", "3000", "-j", "ACCEPT").Run()
