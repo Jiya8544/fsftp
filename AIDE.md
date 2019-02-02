@@ -36,31 +36,31 @@ cd /opt/fsftp
 
 #### Pour démarrer le serveur web tapez :
 ```
-./service start webserver
+./service start http
 ```
 
 #### Pour arrêter le serveur web tapez :
 ```
-./service stop webserver
+./service stop http
 ```
 
 #### Pour redémarrer le serveur web tapez :
 ```
-./service restart webserver
+./service restart http
 ```
 
 #### Pour démarrer le serveur FTP tapez :
 ```
-./service start ftpserver
+./service start ftp
 ```
 
 #### Pour arrêter le serveur FTP tapez :
 ```
-./service stop ftpserver
+./service stop ftp
 ```
 
 #### Pour redémarrer le serveur FTP tapez :
 ```
-./service restart ftpserver
+./service restart ftp
 ```
 

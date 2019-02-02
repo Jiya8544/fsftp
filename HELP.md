@@ -38,30 +38,30 @@ cd /opt/fsftp
 
 #### To start the web server type:
 ```
-./service start webserver
+./service start http
 ```
 
 #### To stop the web server type:
 ```
-./service stop webserver
+./service stop http
 ```
 
 #### To restart the web server type:
 ```
-./service restart webserver
+./service restart http
 ```
 
 #### To start the FTP server type:
 ```
-./service start ftpserver
+./service start ftp
 ```
 
 #### To stop the FTP server type:
 ```
-./service stop ftpserver
+./service stop ftp
 ```
 
 #### To restart the FTP server type:
 ```
-./service restart ftpserver
+./service restart ftp
 ```
