@@ -21,46 +21,46 @@ cd /opt/fsftp
 
 #### Pour démarrer tous les serveurs (HTTPS et FTP) tapez :
 ```
-service start all
+./service start all
 ```
 
 #### Pour arrêter tous les serveurs (HTTPS et FTP) tapez :
 ```
-service stop all
+./service stop all
 ```
 
 #### Pour redémarrer tous les serveurs (HTTPS et FTP) tapez :
 ```
-service restart all
+./service restart all
 ```
 
 #### Pour démarrer le serveur web tapez :
 ```
-service start webserver
+./service start webserver
 ```
 
 #### Pour arrêter le serveur web tapez :
 ```
-service stop webserver
+./service stop webserver
 ```
 
 #### Pour redémarrer le serveur web tapez :
 ```
-service restart webserver
+./service restart webserver
 ```
 
 #### Pour démarrer le serveur FTP tapez :
 ```
-service start ftpserver
+./service start ftpserver
 ```
 
 #### Pour arrêter le serveur FTP tapez :
 ```
-service stop ftpserver
+./service stop ftpserver
 ```
 
 #### Pour redémarrer le serveur FTP tapez :
 ```
-service restart ftpserver
+./service restart ftpserver
 ```
 

@@ -23,45 +23,45 @@ cd /opt/fsftp
 
 #### To start all servers (HTTPS and FTP) type:
 ```
-service start all
+./service start all
 ```
 
 #### To stop all servers (HTTPS and FTP) type:
 ```
-service stop all
+./service stop all
 ```
 
 #### To restart all servers (HTTPS and FTP) type:
 ```
-service restart all
+./service restart all
 ```
 
 #### To start the web server type:
 ```
-service start webserver
+./service start webserver
 ```
 
 #### To stop the web server type:
 ```
-service stop webserver
+./service stop webserver
 ```
 
 #### To restart the web server type:
 ```
-service restart webserver
+./service restart webserver
 ```
 
 #### To start the FTP server type:
 ```
-service start ftpserver
+./service start ftpserver
 ```
 
 #### To stop the FTP server type:
 ```
-service stop ftpserver
+./service stop ftpserver
 ```
 
 #### To restart the FTP server type:
 ```
-service restart ftpserver
+./service restart ftpserver
 ```
