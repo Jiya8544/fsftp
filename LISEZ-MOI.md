@@ -10,6 +10,7 @@ Le <i>serveur FsFTP (<b>F</b>ast and <b>S</b>ecure <b>FTP</b> Server) est un ser
 > Captures d'écran <a href="CAPTURES.md">click here</a><br>
 > Démo en ligne <a href="DEMO-FR.md">cliquez-ici</a><br>
 > Installation sous linux <a href="INSTALL-LINUX.md">cliquez-ici</a><br>
+> Installation sous freebsd <a href="INSTALL-FREEBSD.md">cliquez-ici</a><br>
 > Installation sous Windows <a href="INSTALL-WINDOWS.md">cliquez ici</a><br><br>
 
 

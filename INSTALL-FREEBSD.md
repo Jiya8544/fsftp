@@ -3,18 +3,6 @@
 <b>US</b> - Linux installation:
 </h2>
 
-> <b>FR</b> - <font color="red">Il convient de modifier <u>apt-get</u> selon votre syst&egrave;me d\'exploitation</font><br>
-> <b>EN</b> - <font color="red">You should change <u>apt-get</u> according to your Operating System</font>
-
-```
-Debian / Ubuntu     : apt-get
-Arch Linux          : pacman
-Red Hat / Fedora    : yum
-SLES / openSUSE     : zypper
-Gentoo              : emerge
-etc...
-```
-
 > <b>FR</b> - On se place dans le r&eacute;pertoire <b>opt</b><br>
 > <b>EN</b> - We go to the opt directory
 ```
@@ -23,7 +11,7 @@ mkdir /opt && cd /opt
 > <b>FR</b> - On t&eacute;l&eacute;charge l'installateur automatique du logiciel<br>
 > <b>EN</b> - Download the software auto Installer
 ```
-sudo wget http://-.fr/linux/install
+sudo fetch http://-.fr/freebsd/install
 ```
 
 > <b>FR & EN</b> - Installation<br>

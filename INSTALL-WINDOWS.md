@@ -8,7 +8,7 @@
 > <b>FR</b> Téléchargez l'installateur automatique à l'adresse ci-dessous et suivez les instructions :<br>
 > <b>US</b> Download the auto installer at the address below and follow the instructions:
 
-<a href="#">https://-.fr//install.exe</a><br>
+<a href="#">https://-.fr/windows/install.exe</a><br>
 
 
 > <b>FR</b> <a href="AIDE.md">Cliquez ici</a> pour consulter l'aide expliquant comment démarrer/arrêter les serveurs<br>
