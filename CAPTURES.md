@@ -17,4 +17,4 @@
 
 <hr><br>
 
-![FsFTP Server](img/d-status.png?raw=true)<br><br>
+![FsFTP Server](img/d-statut.png?raw=true)<br><br>
