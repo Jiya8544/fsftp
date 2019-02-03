@@ -6,9 +6,13 @@
 
 <hr><br>
 
-![FsFTP Server](img/list-domains.png?raw=true)<br><br>
+![FsFTP Server](img/domains.png?raw=true)<br><br>
 
 <hr><br>
 
 ![FsFTP Server](img/add-domain.png?raw=true)<br><br>
+
+<hr><br>
+
+![FsFTP Server](img/accounts.png?raw=true)<br><br>
 
