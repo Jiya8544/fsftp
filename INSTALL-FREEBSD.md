@@ -1,6 +1,6 @@
 <h2>
-<b>FR</b> - Installation sous Linux<br>
-<b>US</b> - Linux installation:
+<b>FR</b> - Installation sous FreeBSD<br>
+<b>US</b> - FreeBSD installation:
 </h2>
 
 > <b>FR</b> - On se place dans le r&eacute;pertoire <b>opt</b><br>
