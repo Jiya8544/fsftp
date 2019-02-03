@@ -18,3 +18,8 @@
 <hr><br>
 
 ![FsFTP Server](img/d-statut.png?raw=true)<br><br>
+
+<hr><br>
+
+![FsFTP Server](img/add-acc.png?raw=true)<br><br>
+
