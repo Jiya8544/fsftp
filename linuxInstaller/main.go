@@ -67,18 +67,22 @@ func main() {
 	exec.Command("iptables", "-A", "INPUT", "-p", "tcp", "-i", "eth0", "--dport", "21", "-j", "ACCEPT").Run()
 	exec.Command("iptables", "-A", "INPUT", "-p", "tcp", "-i", "eth0", "--dport", "990", "-j", "ACCEPT").Run()
 	exec.Command("iptables", "-A", "INPUT", "-p", "tcp", "-i", "eth0", "--dport", "3000", "-j", "ACCEPT").Run()
-	exec.Command("iptables", "-A", "INPUT", "-p", "tcp", "-i", "eth0", "--destination-port", "1024:2024", "-j", "ACCEPT").Run()
+	exec.Command("iptables", "-A", "INPUT", "-p", "tcp", "-i", "eth0", "--destination-port", "4000:4100", "-j", "ACCEPT").Run()
+	host := "127.0.0.1"
+	if serverIp, err := common.ExternalIP(); err == nil {
+		host = serverIp
+	}
 
 	str := "\r\n\r\n* * * * * *  * * FR - Félicitation ! * * * * * * * *\r\n"
 	str += "Pour administrer votre serveur, allez à l'adresse https://IP-DE-VOTRE-SERVER:3000 "
-	str += "( ex: https://127.0.0.1:3000 )\r\n\r\n"
-	str += "- Pseudo : admin\r\n"
+	str += "( ex: https://" + host + ":3000 )\r\n\r\n"
+	str += "- Pseudo       : admin\r\n"
 	str += "- Mot de passe : admin\r\n"
 
 	str += "\r\n\r\n* * * * * * * * EN - Congratulations! * * * * * * * *\r\n"
 	str += "To administer your server, go to https://YOUR-IP-SERVER:3000 "
-	str += "( eg: https://127.0.0.1:3000 )\r\n\r\n"
-	str += "- Login : admin\r\n"
+	str += "( eg: https://" + host + ":3000 )\r\n\r\n"
+	str += "- Login    : admin\r\n"
 	str += "- Password : admin\r\n"
 
 	fmt.Println(str)
