@@ -11,11 +11,12 @@ Pour tester les serveurs en temps réel :<br>
 - Login              : test@fsftp.worev.fr
 - Mot de passe       : test
 - Port SSL/TLS       : 990
-- Port normal        : 21 (vous pouvez utiliser ce port mais vous devez utiliser TLS ou SSL Explicite (AUTH TLS)
+- Port normal        : 21 (pour utiliser ce port, vous devez utiliser TLS ou SSL Explicite (AUTH TLS))
 ```
+<br>
 
 > Le serveur HTTPS   :
-<br>
+
 <b>Nb :</b> Certains paramètres sont désactivés dans la démo.<br>
 
 Allez à l'adresse https://fsftp.worev.fr:3000
