@@ -1,4 +1,4 @@
-<img src="img/logo.png" alt="FsFTP Server" title="FsFTP Server" align="right">
+<img src="/img/logo.png" alt="FsFTP Server" title="FsFTP Server" align="right">
 <h1>FsFTP Server (Fast and Secure FTP Server)</h1>
 
 <br>
