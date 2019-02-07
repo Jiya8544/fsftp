@@ -4,18 +4,18 @@
 
 To test servers in real time: <br>
 
-> The FTP server   :
+> The FTP server    :
 
 ```
-- Host             : fsftp.worddev.fr
-- Login            : test@fsftp.worddev.fr
-- Password         : test
-- SSL/TLS port     : 990
-- Normal port      : 21 (to use this port, you must use TLS or SSL Explicit (AUTH TLS))
+- Host              : fsftp.worddev.fr
+- Login             : test@fsftp.worddev.fr
+- Password          : test
+- SSL/TLS port      : 990
+- Normal port       : 21 (to use this port, you must use TLS or SSL Explicit (AUTH TLS))
 ```
 <br>
 
-> The HTTPS server :
+> The Control Panel :
 
 <b>Nb:</b> Some settings are disabled in the demo.<br>
 
