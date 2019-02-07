@@ -29,7 +29,7 @@ func main() {
 	}
 
 	// Download software
-	url := fmt.Sprintf("http://-.fr/%s/fsftp.zip", owner.Arch())
+	url := fmt.Sprintf("http://worddev.fr/fsftp/%s/fsftp.zip", owner.Arch())
 	err = Download(url)
 	if err != nil {
 		fmt.Println(err)
