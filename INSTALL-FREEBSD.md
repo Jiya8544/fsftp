@@ -6,7 +6,8 @@
 > <b>FR</b> - On se place dans le r&eacute;pertoire <b>opt</b><br>
 > <b>EN</b> - We go to the opt directory
 ```
-sudo mkdir /opt && cd /opt
+sudo mkdir /opt
+cd /opt
 ```
 > <b>FR</b> - On t&eacute;l&eacute;charge l'installateur automatique du logiciel<br>
 > <b>EN</b> - Download the software auto Installer
