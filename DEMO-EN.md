@@ -19,4 +19,4 @@ To test servers in real time: <br>
 
 <b>Nb:</b> Some settings are disabled in the demo.<br>
 
-Go to https://fsftp.worev.fr:3000
+Go to https://fsftp.worddev.fr:3000

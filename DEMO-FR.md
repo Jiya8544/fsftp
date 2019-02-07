@@ -19,4 +19,4 @@ Pour tester les serveurs en temps réel :<br>
 
 <b>Nb :</b> Certains paramètres sont désactivés dans la démo.<br>
 
-Allez à l'adresse https://fsftp.worev.fr:3000
+Allez à l'adresse https://fsftp.worddev.fr:3000
