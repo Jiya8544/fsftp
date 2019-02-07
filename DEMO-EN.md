@@ -7,8 +7,8 @@ To test servers in real time: <br>
 > The FTP server   :
 
 ```
-- Host             : fsftp.worev.fr
-- Login            : test@fsftp.worev.fr
+- Host             : fsftp.worddev.fr
+- Login            : test@fsftp.worddev.fr
 - Password         : test
 - SSL/TLS port     : 990
 - Normal port      : 21 (to use this port, you must use TLS or SSL Explicit (AUTH TLS))
