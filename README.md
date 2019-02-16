@@ -94,7 +94,7 @@ Each account can have its own directory<br><br>
 - <b>Delete</b>: Can Delete Files<br>
 - <b>Rename</b>: Can rename Files<br>
 - <b>Chmod</b>: Can apply Chmod<br>
-- <b>Append</b>: Can append contents in an existen file<br><br>
+- <b>Append</b>: Can append contents in an existent file<br><br>
 
 <li><b><i>File Access Permissions</i></b></li>
 Access rights (<b>CHMOD</b>) manage what actions users have the right to perform on files (read, write, and execute)<br><br>
