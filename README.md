@@ -100,10 +100,10 @@ Each account can have its own directory<br><br>
 Access rights (<b>CHMOD</b>) manage what actions users have the right to perform on files (read, write, and execute)<br><br>
 
 <li><b><i>Directory Permissions</i></b></li>
-- Create: Can Create a new Directory or Subfolder</i></b></li>
-- Delete: Can Delete a Directory or Subfolder and their contents</i></b></li>
-- Rename: Can rename directorys and subfolders</i></b></li>
-- Chmod: Can apply Chmod</i></b></li>
+- Create: Can Create a new Directory or Subfolder<br>
+- Delete: Can Delete a Directory or Subfolder and their contents<br>
+- Rename: Can rename directorys and subfolders<br>
+- Chmod: Can apply Chmod<br>
 - List: will list all files/directory for this account<br><br>
 
 <li><b><i>Directory Access Permissions</i></b></li>

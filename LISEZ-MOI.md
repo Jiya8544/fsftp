@@ -101,10 +101,10 @@ Chaque compte peut avoir son propre répertoire<br><br>
 Les droits d'accès (<b>CHMOD</b>) gèrent quelles actions les utilisateurs ont le droit d'effectuer sur les fichiers (lecture, écriture et exécution)<br><br>
 
 <li><b><i>Autorisations de répertoire</i></b></li>
-- Creat : créer un nouveau répertoire ou un sous-dossier</i></b></li>
-- Delete : pouvez supprimer un répertoire ou un sous-dossier et leur contenu</i></b></li>
-- Rename : permet de renommer des répertoires et des sous-dossiers</i></b></li>
-- Chmod : peut appliquer Chmod</i></b></li>
+- Creat : créer un nouveau répertoire ou un sous-dossier<br>
+- Delete : pouvez supprimer un répertoire ou un sous-dossier et leur contenu<br>
+- Rename : permet de renommer des répertoires et des sous-dossiers<br>
+- Chmod : peut appliquer Chmod<br>
 - List : liste tous les fichiers / répertoire pour ce compte<br><br>
 
 <li><b><i>Permissions d'accès aux répertoires </i></b></li>
