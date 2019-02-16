@@ -7,7 +7,7 @@
 
 Le <i>serveur FsFTP (<b>F</b>ast and <b>S</b>ecure <b>FTP</b> Server) est un serveur FTP, FTPS & HTTPS hautement configurable et Gratuit. Logiciel compatible avec Windows et Linux</i><br>
 
-> Captures d'écran <a href="CAPTURES.md">click here</a><br>
+> Captures d'écran <a href="CAPTURES.md">cliquez-ici<</a><br>
 > Démo en ligne <a href="DEMO-FR.md">cliquez-ici</a><br>
 > Installation sous linux <a href="INSTALL-LINUX.md">cliquez-ici</a><br>
 > Installation sous freebsd <a href="INSTALL-FREEBSD.md">cliquez-ici</a><br>
@@ -19,7 +19,7 @@ Le <i>serveur FsFTP (<b>F</b>ast and <b>S</b>ecure <b>FTP</b> Server) est un ser
 
 <li><b><i>Prend en charge les connexions sécurisées SSL et TLS (explicite et implicite). FTP et FTPS</i></b></li>
 
-<li><b><i>Panneau de contrôle d'administration multi-langues (anglais et français) pour la configuration du serveur</i></b></li>
+<li><b><i>Panneau de contrôle d'administration multiple-langues (anglais et français) pour la configuration du serveur</i></b></li>
 
 <li><b><i>Nombre maximal de connexions</i></b></li>
 Nombre maximal de connexions à accepter<br><br>
@@ -54,7 +54,7 @@ Durée maximale d'inactivité, en secondes, avant la déconnexion<br><br>
 
 <li><b><i>Multiple domaines</i></b></li>
 
-<li><b><i>Multilpe utilisateurs</i></b></li>
+<li><b><i>Multiple utilisateurs</i></b></li>
 
 <li><b><i>Les utilisateurs n'ont pas besoin d'un vrai compte système</i></b></li>
 
@@ -66,7 +66,7 @@ Durée maximale d'inactivité, en secondes, avant la déconnexion<br><br>
 
 <li><b><i>Journalisation avancée (compatible Xferlog)</i></b></li>
 
-<li><b><i>Multiple platforms ( Windows toutes les versions, Linux [ Debian, Ubuntu, Fedora, FreeBSD, OpenSuse, Centos, Arch Linux, Red Hat, etc... ], MacOs )</i></b></li><br>
+<li><b><i>Multiple plateformes ( Windows toutes les versions, Linux [ Debian, Ubuntu, Fedora, FreeBSD, OpenSuse, Centos, Arch Linux, Red Hat, etc... ], MacOs )</i></b></li><br>
 
 ![FsFTP Server](img/domaines.png?raw=true)<br><br>
 
@@ -83,29 +83,29 @@ Activer / désactiver le compte<br><br>
 <li><b><i>Date d'expiration</i></b></li>
 
 <li><b><i>Forcer les connexions sécurisées à ce compte</i></b></li>
-Le serveur FsFTP prend en charge les connexions sécurisées SSL et TLS (dans Explicit et Implicit). Vous pouvez donc exiger que les connexions à ce compte soient sécurisées. Ainsi, toutes les connexions non chiffrées seront rejetées. Utile si ce compte va partager des données confidentielles.<br><br>
+Le serveur FsFTP prend en charge les connexions sécurisées SSL et TLS (en Explicite et Implicite). Vous pouvez donc exiger que les connexions à ce compte soient sécurisées. Ainsi, toutes les connexions non chiffrées seront rejetées. Utile si ce compte va partager des données confidentielles.<br><br>
 
 <li><b><i>Répertoire d'utilisateurs</i></b></li>
 Chaque compte peut avoir son propre répertoire<br><br>
 
 <li><b><i>Autorisations de fichier</i></b></li>
-- Read : peut lire (télécharger) fichier / contenu<br>
-- New : peut créer un nouveau fichier ou écrire du contenu dans des fichiers existants<br>
-- Delete : peut supprimer des fichiers<br>
-- Rename : peut renommer des fichiers<br>
-- Chmod : peut appliquer Chmod<br>
-- Append : Peut ajouter du contenu dans un fichier existen<br><br>
+- <b>Read</b> : peut lire (télécharger) fichier / contenu<br>
+- <b>New</b> : peut créer un nouveau fichier ou écrire du contenu dans des fichiers existants<br>
+- <b>Delete</b> : peut supprimer des fichiers<br>
+- <b>Rename</b> : peut renommer des fichiers<br>
+- <b>Chmod</b> : peut appliquer un Chmod<br>
+- <b>Append</b> : Peut ajouter du contenu dans un fichier existant<br><br>
 
 <li><b><i>Permissions d'accès aux fichiers</i></b></li>
 
 Les droits d'accès (<b>CHMOD</b>) gèrent quelles actions les utilisateurs ont le droit d'effectuer sur les fichiers (lecture, écriture et exécution)<br><br>
 
 <li><b><i>Autorisations de répertoire</i></b></li>
-- Creat : créer un nouveau répertoire ou un sous-dossier<br>
-- Delete : pouvez supprimer un répertoire ou un sous-dossier et leur contenu<br>
-- Rename : permet de renommer des répertoires et des sous-dossiers<br>
-- Chmod : peut appliquer Chmod<br>
-- List : liste tous les fichiers / répertoire pour ce compte<br><br>
+- <b>Creat</b> : créer un nouveau répertoire ou un sous-dossier<br>
+- <b>Delete</b> : pouvez supprimer un répertoire ou un sous-dossier et leur contenu<br>
+- <b>Rename</b> : permet de renommer des répertoires et des sous-dossiers<br>
+- <b>Chmod</b> : peut appliquer un Chmod<br>
+- <b>List</b> : liste tous les fichiers / répertoire pour ce compte<br><br>
 
 <li><b><i>Permissions d'accès aux répertoires </i></b></li>
 
@@ -137,7 +137,7 @@ Par défaut, les fichiers et les répertoires qui se terminent par le caractère
 
 <li><b><i>Utilisateur et Groupe</i></b></li>
 Utilisateur/Groupe : Nom (ou #numéro) de l'utilisateur/groupe sous lesquels ce compte doit être exécuté.<br>
-Ces options sont utiles si vous utilisez par exemple suEXEC et/ou suPHP ou pour un hebergement web.<br><br>
+Ces options sont utiles si vous utilisez par exemple suEXEC et/ou suPHP ou pour un hébergement web.<br><br>
 
 <li><b><i>Journalisation du compte</i></b></li>
 Activer/désactiver les logs pour ce compte. Toutes ses activités seront enregistrées au format <b>Xferlog</b><br><br>
@@ -155,7 +155,7 @@ FsFTP Server dispose d'un Anti attaque par Force Brute<br><br>
 
 FsFTP est l'un des serveurs FTP le plus sécurisé et le plus simple d'utilisation de sa catégorie. Il est 100% gratuit, sans pub et sans frais cachés.<br>
 <br>
-Comme vous le savez, la publicité est l'outils le plus utilisé pour rentabiliser son site ou son projet. Mais je n'en veux pas ! De même, j'aurais pu créer une entreprise commerciale et y vendre des espaces publicitaires ou vendre des licences du logiciel. Mais j'ai décidé d'en faire quelque chose de différent.<br>
+Comme vous le savez, la publicité est l'outil le plus utilisé pour rentabiliser son site ou son projet. Mais je n'en veux pas ! De même, j'aurais pu créer une entreprise commerciale et y vendre des espaces publicitaires ou vendre des licences du logiciel. Mais j'ai décidé d'en faire quelque chose de différent.<br>
 <br>
 Mais location de serveurs, hébergement, des milliers d'heures de programmation, maintenance, développement etc... Nous coutent cher. Déplus nous travaillons dur pour vous proposer une solution efficace et gratuite. Aujourd'hui, nous remplissons notre mission mais nous avons besoin de votre contribution. Si chaque personne lisant ce message donnait, notre levée de fonds serait achevée en à peine une heure ! Je vous remercie de faire un don de 5, 20, 50 ou le montant de votre choix afin que nous puissions préserver ce projet.<br>
 <br>

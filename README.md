@@ -8,7 +8,7 @@
 <i>FsFTP Server (<b>F</b>ast and <b>S</b>ecure <b>FTP</b> Server) is a Highly configurable Free FTP, FTPS & HTTPS server software compatible with Windows and Linux</i><br>
 
 > Screenshot <a href="SCREENSHOT.md">click here</a><br>
-> Demo online <a href="DEMO-EN.md">click here</a><br>
+> Demo on line <a href="DEMO-EN.md">click here</a><br>
 > Installation under linux <a href="INSTALL-LINUX.md">click here</a><br>
 > Installation under freebsd <a href="INSTALL-FREEBSD.md">click here</a><br>
 > Installation under Windows <a href="INSTALL-WINDOWS.md">click here</a><br><br>
@@ -19,7 +19,7 @@
 
 <li><b><i>Full supports secure SSL and TLS connections (in Explicit and Implicit). FTP and FTPS</i></b></li>
 
-<li><b><i>Multi-lang (English and French) Admin Controle Panel to configure server</i></b></li>
+<li><b><i>Multi-lang (English and French) Admin Control Panel to configure server</i></b></li>
 
 <li><b><i>Max Connections</i></b></li>
 Max number of control connections to accept<br><br>
@@ -64,7 +64,7 @@ Maximum inactivity time, in seconds, before disconnecting<br><br>
 
 <li><b><i>Remote administration</i></b></li>
 
-<li><b><i>Advenced Logging (Xferlog compatible)</i></b></li>
+<li><b><i>Advanced Logging (Xferlog compatible)</i></b></li>
 
 <li><b><i>Multi platform ( Windows All version, Linux [ Debian, Ubuntu, Fedora, FreeBSD, OpenSuse, Centos, Arch Linux, Red Hat, etc... ], MacOs )</i></b></li><br>
 
@@ -89,22 +89,22 @@ FsFTP Server supports secure SSL and TLS connections (in Explicit and Implicit),
 Each account can have its own directory<br><br>
 
 <li><b><i>File Permissions</i></b></li>
-- Read: can Read (download) file/contents<br>
-- New: Can Create a new file or write contents in existen files<br>
-- Delete: Can Delete Files<br>
-- Rename: Can rename Files<br>
-- Chmod: Can apply Chmod<br>
-- Append: Can append contents in an existen file<br><br>
+- <b>Read</b>: can Read (download) file/contents<br>
+- <b>New</b>: Can Create a new file or write contents in existent files<br>
+- <b>Delete</b>: Can Delete Files<br>
+- <b>Rename</b>: Can rename Files<br>
+- <b>Chmod</b>: Can apply Chmod<br>
+- <b>Append</b>: Can append contents in an existen file<br><br>
 
 <li><b><i>File Access Permissions</i></b></li>
 Access rights (<b>CHMOD</b>) manage what actions users have the right to perform on files (read, write, and execute)<br><br>
 
 <li><b><i>Directory Permissions</i></b></li>
-- Create: Can Create a new Directory or Subfolder<br>
-- Delete: Can Delete a Directory or Subfolder and their contents<br>
-- Rename: Can rename directorys and subfolders<br>
-- Chmod: Can apply Chmod<br>
-- List: will list all files/directory for this account<br><br>
+- <b>Create</b>: Can Create a new Directory or Subfolder<br>
+- <b>Delete</b>: Can Delete a Directory or Subfolder and their contents<br>
+- <b>Rename</b>: Can rename directory and subfolder<br>
+- <b>Chmod</b>: Can apply Chmod<br>
+- <b>List</b>: will list all files/directory for this account<br><br>
 
 <li><b><i>Directory Access Permissions</i></b></li>
 Access rights (<b>CHMOD</b>) manage what actions users have the right to perform on Directories (read, write, and execute)<br><br>
@@ -127,7 +127,7 @@ This restricts the user to a fixed amount of disk usage (disk quota control).<br
 <li><b><i>Maximum File Size</i></b></li>
 Users will not be able to send files whose size exceeds this value.<br><br>
 
-<li><b><i>Force Display Hiden Files and Directories</i></b></li>
+<li><b><i>Force Display Hidden Files and Directories</i></b></li>
 By default, files and directories with the hidden attribute (which start with a dot "." eg: .htaccess, .passwd, .file, etc ...) will not be displayed to users in the explorer. You can force their display by setting this directive to True<br><br>	
 
 <li><b><i>Force Display Temporary Files and Directories</i></b></li>
@@ -157,7 +157,7 @@ FsFTP is one of the most secure and easy-to-use FTP servers in its class. It's 1
 <br>
 As you know, advertising is the most used tool to make your site or project profitable. But I do not want it! Likewise, I could have started a commercial business and sold advertising space or sold software licenses. But I decided to do something different.<br>
 <br>
-But server rentals, hosting, thousands of hours of programming, maintenance, development etc ... We are expensive. We work hard to offer you an efficient and free solution. Today, we fulfill our mission but we need your contribution. If every person reading this message gave, our fundraising would be completed in just one hour! I thank you for making a donation of 5, 20, 50 or the amount of your choice so that we can preserve this project.<br>
+But server rentals, hosting, thousands of hours of programming, maintenance, development etc ... We are expensive. We work hard to offer you an efficient and free solution. Today, we fulfill our mission but we need your contribution. If every person reading this message gave, our fund raising would be completed in just one hour! I thank you for making a donation of 5, 20, 50 or the amount of your choice so that we can preserve this project.<br>
 <br>
 To make a donation, <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=PX5B8E9T5RRGL&source=url" target="_blank">click here</a><br>
 <br>
