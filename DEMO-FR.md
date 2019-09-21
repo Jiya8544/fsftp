@@ -7,7 +7,7 @@ Pour tester les serveurs en temps réel :<br>
 > Le serveur FTP      :
 
 ```
-- Hôte                : fsftp.worddev.fr
+- Hôte                : 51.75.201.102
 - Login               : test@fsftp.worddev.fr
 - Mot de passe        : test
 - Port SSL/TLS        : 990
@@ -19,4 +19,4 @@ Pour tester les serveurs en temps réel :<br>
 
 <b>Nb :</b> Certains paramètres sont désactivés dans la démo.<br>
 
-Allez à l'adresse https://fsftp.worddev.fr:3000
+Allez à l'adresse https://51.75.201.102:3000
