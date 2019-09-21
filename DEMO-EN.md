@@ -7,7 +7,7 @@ To test servers in real time: <br>
 > The FTP server    :
 
 ```
-- Host              : fsftp.worddev.fr
+- Host              : 51.75.201.102
 - Login             : test@fsftp.worddev.fr
 - Password          : test
 - SSL/TLS port      : 990
