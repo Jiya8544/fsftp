@@ -1,8 +1,8 @@
 
 #define MyAppName "FsFTP-Server"
 #define MyAppVersion "1.0"
-#define MyAppPublisher "worv.fr"
-#define MyAppURL "https://worev.fr/"
+#define MyAppPublisher "hotscripts.fr"
+#define MyAppURL "https://hotscripts.fr/"
 #define MyAppExeName "service.exe"
 #define FTPRuleName "FsFTP ftpserver.exe"
 #define HTTPRuleName "FsFTP webserver.exe"
