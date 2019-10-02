@@ -24,7 +24,7 @@ cd /opt
 > <b>FR</b> - On t&eacute;l&eacute;charge l'installateur automatique du logiciel<br>
 > <b>EN</b> - Download the software auto Installer
 ```
-sudo wget https://worddev.fr/fsftp/linux/install
+sudo wget https://hotscripts.fr/fsftp/linux/install
 ```
 
 > <b>FR & EN</b> - Installation<br>

@@ -7,8 +7,8 @@ To test servers in real time: <br>
 > The FTP server    :
 
 ```
-- Host              : fsftp.worddev.fr
-- Login             : test@fsftp.worddev.fr
+- Host              : fsftp.hotscripts.fr
+- Login             : test@fsftp.hotscripts.fr
 - Password          : test
 - SSL/TLS port      : 990
 - Normal port       : 21 (to use this port, you must use TLS or SSL Explicit (AUTH TLS))
@@ -19,4 +19,4 @@ To test servers in real time: <br>
 
 <b>Nb:</b> Some settings are disabled in the demo.<br>
 
-Go to https://fsftp.worddev.fr:3000
+Go to https://fsftp.hotscripts.fr:3000

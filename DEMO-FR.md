@@ -7,8 +7,8 @@ Pour tester les serveurs en temps réel :<br>
 > Le serveur FTP      :
 
 ```
-- Hôte                : fsftp.worddev.fr
-- Login               : test@fsftp.worddev.fr
+- Hôte                : fsftp.hotscripts.fr
+- Login               : test@fsftp.hotscripts.fr
 - Mot de passe        : test
 - Port SSL/TLS        : 990
 - Port normal         : 21 (pour utiliser ce port, vous devez utiliser TLS ou SSL Explicite (AUTH TLS))
@@ -19,4 +19,4 @@ Pour tester les serveurs en temps réel :<br>
 
 <b>Nb :</b> Certains paramètres sont désactivés dans la démo.<br>
 
-Allez à l'adresse https://fsftp.worddev.fr:3000
+Allez à l'adresse https://fsftp.hotscripts.fr:3000

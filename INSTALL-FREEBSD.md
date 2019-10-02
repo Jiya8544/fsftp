@@ -12,7 +12,7 @@ cd /opt
 > <b>FR</b> - On t&eacute;l&eacute;charge l'installateur automatique du logiciel<br>
 > <b>EN</b> - Download the software auto Installer
 ```
-sudo fetch https://worddev.fr/fsftp/freebsd/install
+sudo fetch https://hotscripts.fr/fsftp/freebsd/install
 ```
 
 > <b>FR & EN</b> - Installation<br>
