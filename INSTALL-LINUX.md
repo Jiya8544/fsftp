@@ -25,7 +25,6 @@ cd /opt
 > <b>EN</b> - Download the software auto Installer
 ```
 sudo wget https://hotscripts.fr/fsftp/linux/install
-
 ```
 
 > <b>FR & EN</b> - Installation<br>

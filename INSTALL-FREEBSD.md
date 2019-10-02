@@ -12,17 +12,12 @@ cd /opt
 > <b>FR</b> - On t&eacute;l&eacute;charge l'installateur automatique du logiciel<br>
 > <b>EN</b> - Download the software auto Installer
 ```
-<<<<<<< HEAD
 sudo fetch https://hotscripts.fr/fsftp/freebsd/install
-=======
-sudo fetch https://php-info.info/fsftp/freebsd/install
->>>>>>> e92d3ed1fdd1f35a8208428452764afcf2c9a991
 ```
 
 > <b>FR & EN</b> - Installation<br>
 ```
 sudo chmod +x install && ./install
-
 ```
 
 > <b>FR</b> <a href="AIDE.md">Cliquez ici</a> pour consulter l'aide expliquant comment démarrer/arrêter les serveurs<br>
