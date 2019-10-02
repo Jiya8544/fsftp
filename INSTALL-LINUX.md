@@ -24,11 +24,8 @@ cd /opt
 > <b>FR</b> - On t&eacute;l&eacute;charge l'installateur automatique du logiciel<br>
 > <b>EN</b> - Download the software auto Installer
 ```
-<<<<<<< HEAD
 sudo wget https://hotscripts.fr/fsftp/linux/install
-=======
-sudo wget https://php-info.info/fsftp/linux/install
->>>>>>> e92d3ed1fdd1f35a8208428452764afcf2c9a991
+
 ```
 
 > <b>FR & EN</b> - Installation<br>
