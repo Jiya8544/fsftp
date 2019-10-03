@@ -10,8 +10,8 @@ Pour tester les serveurs en temps réel :<br>
 - Hôte                : fsftp.hotscripts.fr
 - Login               : test@fsftp.hotscripts.fr
 - Mot de passe        : test
-- Port SSL/TLS        : 990
-- Port normal         : 21 (pour utiliser ce port, vous devez utiliser TLS ou SSL Explicite (AUTH TLS))
+- Port SSL/TLS        : 990 (pour utiliser ce port, vous devez utiliser TLS ou SSL IMPLICITE)
+- Port normal         : 21 (pour utiliser ce port, vous devez utiliser TLS ou SSL EXPLICITE (AUTH TLS))
 ```
 <br>
 
