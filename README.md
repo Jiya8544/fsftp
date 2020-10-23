@@ -7,8 +7,7 @@
 
 <i>FsFTP Server (<b>F</b>ast and <b>S</b>ecure <b>FTP</b> Server) is a Highly configurable Free FTP & FTPS server compatible with Windows and Linux</i><br>
 
-> Screenshot <a href="SCREENSHOT.md">click here</a><br>
-<!-- > Demo on line <a href="DEMO-EN.md">click here</a><br> //-->
+> Screenshot <a href="SCREENSHOT.md">click here</a><br><!-- > Demo on line <a href="DEMO-EN.md">click here</a><br> //-->
 > Installation under linux <a href="INSTALL-LINUX.md">click here</a><br>
 > Installation under freebsd <a href="INSTALL-FREEBSD.md">click here</a><br>
 > Installation under Windows <a href="INSTALL-WINDOWS.md">click here</a><br><br>
