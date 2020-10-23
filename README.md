@@ -5,7 +5,7 @@
 
 <hr>
 
-<i>FsFTP Server (<b>F</b>ast and <b>S</b>ecure <b>FTP</b> Server) is a Highly configurable Free FTP, FTPS & HTTPS server software compatible with Windows and Linux</i><br>
+<i>FsFTP Server (<b>F</b>ast and <b>S</b>ecure <b>FTP</b> Server) is a Highly configurable Free FTP & FTPS server compatible with Windows and Linux</i><br>
 
 > Screenshot <a href="SCREENSHOT.md">click here</a><br>
 > Demo on line <a href="DEMO-EN.md">click here</a><br>
