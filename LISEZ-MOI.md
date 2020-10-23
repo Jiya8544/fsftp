@@ -5,7 +5,7 @@
 
 <hr>
 
-Le <i>serveur FsFTP (<b>F</b>ast and <b>S</b>ecure <b>FTP</b> Server) est un serveur FTP, FTPS & HTTPS hautement configurable et Gratuit. Logiciel compatible avec Windows et Linux</i><br>
+Le <i>serveur FsFTP (<b>F</b>ast and <b>S</b>ecure <b>FTP</b> Server) est un serveur FTP & FTPS hautement configurable et Gratuit. Logiciel compatible avec Windows et Linux</i><br>
 
 > Captures d'écran <a href="CAPTURES.md">cliquez-ici</a><br>
 > Démo en ligne <a href="DEMO-FR.md">cliquez-ici</a><br>
