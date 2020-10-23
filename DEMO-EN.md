@@ -1,7 +1,7 @@
 <i>Ce fichier existe en plusieurs langues. <a href="DEMO-FR.md"><u>Cliquez ici pour le lire en Français</i></a></i>
 
 <hr>
-
+<!--
 To test servers in real time: <br>
 
 > The FTP server    :
@@ -20,3 +20,5 @@ To test servers in real time: <br>
 <b>Nb:</b> Some settings are disabled in the demo.<br>
 
 Go to https://fsftp.hotscripts.fr:3000
+
+//-->
