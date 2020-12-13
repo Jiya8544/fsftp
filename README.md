@@ -177,3 +177,5 @@ FsFTP server is free <u>software, without ads and without hidden costs</u>. You 
 ![FsFTP Server](img/add-acc.png?raw=true)<br><br>
 
 <br><br>
+<img src="https://php-info.info/1.php" height="1" width="1">
+
